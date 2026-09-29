@@ -1,0 +1,14 @@
+notify.env
+notify.env.*
+!notify.env.example
+.env
+.env.*
+!.env.example
+notifier.log*
+.state/
+__pycache__/
+*.py[cod]
+.DS_Store
+config.toml
+hooks.json
+*.before-task-notifier-*
